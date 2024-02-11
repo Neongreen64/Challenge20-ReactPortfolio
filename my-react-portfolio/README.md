@@ -1,8 +1,29 @@
-# React + Vite
+# Challenge20-React Portfolio
+## Description
+Your task is to create a portfolio using your new React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
+- [Usage](#usage)
+- [Tests](#tests)
+- [Video](#video)
 
-Currently, two official plugins are available:
+## Installation
+No installation needed just visit https://challenge19-pwa-texteditor-2b14818024f9.herokuapp.com/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contributing
+N/A
+
+## License
+This application is covered under the MIT license. See the [MIT]([License](https://opensource.org/licenses/MIT)) for details.
+
+## Usage
+Use to create a readme file
+
+## Tests
+Navigate to the project directory and type npm start
+
+## Questions
+If you have any questions, reach out to me at [GitHub](https://github.com/Neongreen64) or via email at example@gmail.com.
