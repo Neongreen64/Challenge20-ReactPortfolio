@@ -7,6 +7,7 @@ import Contact from './Contact';
 import Footer from './Footer';
 import './App.css'
 
+// Define function App.
 function App() {
     const [selectedSection, setSelectedSection] = useState('about'); // Defaulting to 'about' section
 

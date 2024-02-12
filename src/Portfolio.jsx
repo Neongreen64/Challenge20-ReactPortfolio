@@ -7,6 +7,7 @@ import ecommerceImage from './images/ecommerce.png';
 import employeeTrackerImage from './images/employee-tracker.png';
 import logoGeneratorImage from './images/Logo-Generator.png';
 
+// Define function Portfolio.
 function Portfolio() {
     return (
         <section>

@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Define function Footer.
 function Footer() {
     return (
         <footer>

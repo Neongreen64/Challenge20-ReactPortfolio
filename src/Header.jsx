@@ -1,6 +1,7 @@
 import React from 'react';
 import Navigation from './Navigation';
 
+// Define function Header.
 function Header({ onNavClick }) {
     return (
         <header>

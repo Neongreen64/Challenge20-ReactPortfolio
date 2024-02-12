@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Define function Resume.
 function Resume() {
     return (
         <section>

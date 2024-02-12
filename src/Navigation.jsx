@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Define function Navigation.
 function Navigation({ selectedSection, onNavClick }) {
     return (
         <nav>

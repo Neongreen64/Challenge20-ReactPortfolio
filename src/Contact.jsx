@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 
+// Define function Contact.
 function Contact() {
     const [formData, setFormData] = useState({
         name: '',
@@ -7,6 +8,7 @@ function Contact() {
         message: ''
     });
 
+    // Define handleChange and handleSubmit.
     const handleChange = (event) => {
         const { name, value } = event.target;
         setFormData(prevState => ({
@@ -20,6 +22,7 @@ function Contact() {
         console.log(formData);
     };
     
+    // Return contact form.
     return (
         <section>
             <h2>Contact Me</h2>
