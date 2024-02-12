@@ -11,7 +11,7 @@ Your task is to create a portfolio using your new React skills, which will help 
 - [Video](#video)
 
 ## Installation
-No installation needed just visit https://challenge19-pwa-texteditor-2b14818024f9.herokuapp.com/
+No installation needed just visit https://extraordinary-youtiao-085fc6.netlify.app/
 
 ## Contributing
 N/A
