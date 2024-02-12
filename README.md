@@ -20,10 +20,10 @@ N/A
 This application is covered under the MIT license. See the [MIT]([License](https://opensource.org/licenses/MIT)) for details.
 
 ## Usage
-Use to create a readme file
+A react portfolio to showcase my skills.
 
 ## Tests
-Navigate to the project directory and type npm start
+n/a
 
 ## Questions
 If you have any questions, reach out to me at [GitHub](https://github.com/Neongreen64) or via email at example@gmail.com.
