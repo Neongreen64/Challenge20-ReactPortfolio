@@ -1,4 +1,5 @@
-# Challenge20-React Portfolio
+# Challenge20-React Portfolio[![Netlify Status](https://api.netlify.com/api/v1/badges/592bdf71-14e6-4055-b6bd-527f60574008/deploy-status)](https://app.netlify.com/sites/extraordinary-youtiao-085fc6/deploys)
+
 ## Description
 Your task is to create a portfolio using your new React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies.
 
